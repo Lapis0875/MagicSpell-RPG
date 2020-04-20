@@ -1,0 +1,8 @@
+{
+  "name": "frost",
+  "magicspell_name": "frost",
+  "description": "상대를 얼립니다!",
+  "damage": 3,
+  "hit_count": 3,
+  "buff_duration": 10
+}

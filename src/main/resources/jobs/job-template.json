@@ -1,0 +1,8 @@
+{
+  "name": "YOUR_JOB_NAME",
+  "description": "YOUR_JOB_DESCRIPTION",
+  "skills": [
+    "SKILL_NAME",
+    "Skills must exist in `(server)/plugins/MagicSpell-RPG/skills/` directory"
+  ]
+}

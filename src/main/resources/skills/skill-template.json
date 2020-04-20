@@ -1,0 +1,8 @@
+{
+  "name": "YOUR_SKILL_NAME_WHICH_CAN_BE_USED_ON_JOBS",
+  "magicspell_name": "YOUR_MAGICSPELL_NAME",
+  "description": "YOUR_SKILL_DESCRIPTION",
+  "damage": 0,
+  "hit_count": 0,
+  "buff_duration": 0
+}

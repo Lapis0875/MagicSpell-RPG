@@ -1,0 +1,8 @@
+{
+  "name": "thunderbolt",
+  "magicspell_name": "lightening",
+  "description": "전격을 발사합니다!",
+  "damage": 7,
+  "hit_count": 3,
+  "buff_duration": 0
+}

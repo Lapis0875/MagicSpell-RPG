@@ -1,0 +1,8 @@
+name: MagicSpell-RPG
+version: ${project.version}
+main: com.github.lapis0875.
+api-version: 1.13
+prefix: TemplatePlugin
+authors: [Lapis0875]
+description: Bukkit plugin template. Made with Java
+website: https://lapis0875.github.io

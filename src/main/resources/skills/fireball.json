@@ -1,0 +1,8 @@
+{
+  "name": "fireball",
+  "magicspell_name": "flame",
+  "description": "불을 발사합니다!",
+  "damage": 5,
+  "hit_count": 5,
+  "buff_duration": 0
+}
